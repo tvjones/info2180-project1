@@ -223,6 +223,11 @@ section.overview-hero{
     padding: 0 2px;
     border-radius: 5px;
 }
+
+.message{
+    margin-top: 10px;
+}
+
 footer .container{
     margin-left: 10rem;
 }
